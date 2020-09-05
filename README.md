@@ -14,16 +14,16 @@ Install from GitLab
 
 ``` r
 # install.packages("devtools")
-devtools::install_git("https://gitlab.com/dashee87/footballR.git")
-library("footballR")
+devtools::install_git("https://gitlab.com/pontilicious/footballR2.git")
+library("footballR2")
 ```
 
 You can install from GitHub (identical mirror of GitLab)
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("dashee87/footballR")
-library("footballR")
+devtools::install_github("pontilicious/footballR2")
+library("footballR2")
 ```
 
 Alternatively, you can copy the R files onto your computer and run them all locally (only if the other approaches fail for some reason).
@@ -47,7 +47,7 @@ Currently, the package only supports calls to the [football-data.org API](http:/
 
 Please let me know if something's not working.
 
-[Submit issues here](https://github.com/dashee87/footballR/issues).
+[Submit issues here](https://github.com/pontilicious/footballR2/issues).
 
 ### Future
 
