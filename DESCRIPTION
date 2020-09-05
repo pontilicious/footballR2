@@ -7,7 +7,7 @@ Depends: R (>= 3.1.1)
 License: MIT + file LICENSE
 URL: https://github.com/pontilicious/footballR2
 BugReports: https://github.com/pontilicious/footballR2/issues
-Maintainer: Robin Reiche <robislavski@gmail.com
+Maintainer: Robin Reiche <robislavski@gmail.com>
 LazyData: true
 Imports:
     httr,
