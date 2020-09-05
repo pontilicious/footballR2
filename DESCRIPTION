@@ -1,13 +1,13 @@
-Package: footballR
+Package: footballR2
 Title: R package to obtain football (soccer) data from APIs
 Version: 0.0.1
-Authors@R: person("David", "Sheehan", email = "davidfsheehan87@gmail.com", role = c("aut", "cre"))
+Authors@R: person("Rob", "Reiche", email = "robislavski@gmail.com", role = c("aut", "cre"))
 Description: R package that calls various free soccer APIs
 Depends: R (>= 3.1.1)
 License: MIT + file LICENSE
-URL: https://github.com/dashee87/socceR
-BugReports: http://www.github.com/dashee87/socceR/issues
-Maintainer: David Sheehan <davidfsheehan87@gmail.com>
+URL: https://github.com/pontilicious/footballR2
+BugReports: https://github.com/pontilicious/footballR2/issues
+Maintainer: Robin Reiche <robislavski@gmail.com
 LazyData: true
 Imports:
     httr,
